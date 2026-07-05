@@ -12,7 +12,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-f7df1e?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-![SecureSOC Dashboard Preview](https://placehold.co/1200x600/0f172a/3b82f6?text=SecureSOC+Dashboard+Preview)
+<img width="1920" height="1073" alt="image" src="https://github.com/user-attachments/assets/7f2cea2c-c1aa-4973-a37b-319a5bb9394c" />
+
 
 </div>
 
